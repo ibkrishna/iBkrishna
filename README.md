@@ -2,6 +2,23 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/balkrishnapandey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="190" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/balkrishnapandey_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="190" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/mebkrishna" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="190" height="40" alt="twitter logo"  />
+  </a>
+  <a href="balkrishnapandey21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="190" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <p align="center">Where passion meets code and innovation knows no bounds. Join me on a journey to revolutionize the world through creative solutions and groundbreaking ideas. Let's embark on this adventure together, shaping the future one line of code at a time! 🚀</p>
 
 ###
@@ -57,23 +74,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/iBkrishna/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/balkrishnapandey/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="190" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/balkrishnapandey_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="190" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/mebkrishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="190" height="40" alt="twitter logo"  />
-  </a>
-  <a href="balkrishnapandey21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="190" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
